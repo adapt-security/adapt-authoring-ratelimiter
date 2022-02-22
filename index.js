@@ -1,1 +1,1 @@
-export { default } from './lib/TemplateModule.js';
+export { default } from './lib/RateLimiterModule.js';

@@ -1,12 +1,12 @@
 {
-  "name": "adapt-authoring-templatemodule",
+  "name": "adapt-authoring-ratelimiter",
   "version": "0.0.1",
-  "description": "A template module for the Adapt authoring tool",
-  "homepage": "https://github.com/adapt-security/adapt-authoring-templatemodule",
+  "description": "API request rate limiter for the Adapt authoring tool",
+  "homepage": "https://github.com/adapt-security/adapt-authoring-ratelimiter",
   "license": "GPL-3.0",
   "type": "module",
   "main": "index.js",
-  "repository": "github:adapt-security/adapt-authoring-templatemodule",
+  "repository": "github:adapt-security/adapt-authoring-ratelimiter",
   "peerDependencies": {
     "adapt-authoring-core": "github:adapt-security/adapt-authoring-core"
   }

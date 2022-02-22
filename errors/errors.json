@@ -1,0 +1,6 @@
+{
+  "RATE_LIMIT_EXCEEDED": {
+    "description": "API rate limit has been exceeded",
+    "statusCode": 429
+  }
+}

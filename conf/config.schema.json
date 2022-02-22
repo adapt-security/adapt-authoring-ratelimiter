@@ -2,10 +2,10 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "type": "object",
   "properties": {
-    "isTemplate": {
-      "description": "Whether this module is a template",
-      "type": "boolean",
-      "default": true
+    "apiRequestLimit": {
+      "description": "The number of API requests allowed per-second by a single IP",
+      "type": "number",
+      "default": 25
     }
   }
 }
