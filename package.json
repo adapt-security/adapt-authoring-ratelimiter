@@ -7,6 +7,9 @@
   "type": "module",
   "main": "index.js",
   "repository": "github:adapt-security/adapt-authoring-ratelimiter",
+  "dependencies": {
+    "rate-limiter-flexible": "^2.3.6"
+  },
   "peerDependencies": {
     "adapt-authoring-core": "github:adapt-security/adapt-authoring-core"
   }
