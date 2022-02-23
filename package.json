@@ -11,6 +11,7 @@
     "rate-limiter-flexible": "^2.3.6"
   },
   "peerDependencies": {
-    "adapt-authoring-core": "github:adapt-security/adapt-authoring-core"
+    "adapt-authoring-core": "github:adapt-security/adapt-authoring-core",
+    "adapt-authoring-mongodb": "github:adapt-security/adapt-authoring-mongodb"
   }
 }
