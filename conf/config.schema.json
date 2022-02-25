@@ -5,7 +5,7 @@
     "apiRequestLimit": {
       "description": "The number of API requests allowed per-second by a single IP",
       "type": "number",
-      "default": 10
+      "default": 25
     },
     "apiRequestLimitDuration": {
       "description": "Amount of time in seconds before the request count is reset",
