@@ -3,7 +3,7 @@
   "type": "object",
   "properties": {
     "apiRequestLimit": {
-      "description": "The number of API requests allowed per-second by a single IP",
+      "description": "The number of API requests allowed by a single IP within the specified time limit",
       "type": "number",
       "default": 50
     },
