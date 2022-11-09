@@ -8,9 +8,10 @@
       "default": 50
     },
     "apiRequestLimitDuration": {
-      "description": "Amount of time in seconds before the request count is reset",
-      "type": "number",
-      "default": 1
+      "description": "Amount of time before the request count is reset",
+      "type": "string",
+      "isTimeMs": true,
+      "default": "1s"
     }
   }
 }
